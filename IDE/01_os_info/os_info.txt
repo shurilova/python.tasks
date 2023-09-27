@@ -1,0 +1,4 @@
+OS info is 
+uname_result(system='Darwin', node='MacBook-Air-Elizaveta.local', release='21.2.0', version='Darwin Kernel Version 21.2.0: Sun Nov 28 20:28:54 PST 2021; root:xnu-8019.61.5~1/RELEASE_X86_64', machine='x86_64')
+
+Python version is 3.10.4 (v3.10.4:9d38120e33, Mar 23 2022, 17:29:05) [Clang 13.0.0 (clang-1300.0.29.30)] ('64bit', '')
